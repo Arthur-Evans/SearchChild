@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="发动态"
+        android:id="@+id/title_write"/>
+    <item android:title="关于"
+        android:id="@+id/title_about"/>
+    <item android:title="关闭"
+        android:id="@+id/title_exit"/>
+</menu>
